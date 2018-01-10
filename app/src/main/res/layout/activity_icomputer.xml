@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <android.widget.LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.moter.icomputer.IComputer">
+
+
+        <ImageView
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="320dp"
+        android:src="@drawable/in"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp"
+            android:contentDescription="@string/icomputer" />
+
+    <Button
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/solution_to_a_question"
+        android:focusable="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        android:text="@string/a_trend_of_question" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        android:text="Study Scheduler" />
+
+    <Button
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/terminology_dictionary"
+        android:focusable="true" />
+
+
+</android.widget.LinearLayout>

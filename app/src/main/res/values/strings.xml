@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IComputer</string>
+    <string name="terminology_dictionary">terminology dictionary</string>
+    <string name="icomputer">IComputer</string>
+    <string name="annual_trend_of_question">Annual trend of question</string>
+    <string name="a_trend_of_question">A trend of question</string>
+    <string name="solution_to_a_question">Solution to a question</string>
+    <string name="data_structure_algorithm"><![CDATA[Data Structure & Algorithm]]></string>
+    <string name="operating_system">Operating System</string>
+    <string name="programming">Programming</string>
+    <string name="database">Database</string>
+    <string name="logic_circuit">Logic Circuit</string>
+    <string name="subject_pedagogy">Subject Pedagogy</string>
+    <string name="software_engineering">Software Engineering</string>
+    <string name="computer_architecture">COMPUTER ARCHITECTURE</string>
+    <string name="network_data_communication"><![CDATA[Network & Data COMMUNICATION]]></string>
+    <string name="tab_content_2">ALL</string>
+    <string name="tab_content_1">2018</string>
+    <string name="tab_content_3">2017</string>
+</resources>
